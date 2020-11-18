@@ -29,8 +29,8 @@
 #include "Core/State.h"
 
 // Not clean but idk a better way atm
-#include "DolphinWX/Frame.h"
-#include "DolphinWX/Main.h"
+//#include "DolphinWX/Frame.h"
+//#include "DolphinWX/Main.h"
 
 #define FRAME_INTERVAL 900
 #define SLEEP_TIME_MS 8
